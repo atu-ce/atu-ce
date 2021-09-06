@@ -29,3 +29,4 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atuce/)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmet.tayyip.uzun)
 [![Mail Badge](https://img.shields.io/badge/atu46100@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:atu46100@gmail.com)](mailto:atu46100@gmail.com)
+[![](	https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://atuce.blogspot.com/)
