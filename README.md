@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=atu-ce&show_icons=true">
 
-# Merhaba, ben Ahmet Tayyip UZUN 
+# Hi, I'm Ahmet Tayyip UZUN 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atu-ce" alt="atu-ce" /> </p>
 
 ### Languages
