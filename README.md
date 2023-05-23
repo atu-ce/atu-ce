@@ -28,5 +28,5 @@
 ### Contact
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/atayyipu)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atuce/)
-[![Mail Badge](https://img.shields.io/badge/atu46100@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:atu46100@gmail.com)](mailto:tayyip.ce@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/tayyip.ce@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:atu46100@gmail.com)](mailto:tayyip.ce@gmail.com)
 [![](	https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://atuce.blogspot.com/)
