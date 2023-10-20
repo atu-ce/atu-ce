@@ -1,7 +1,12 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=atu-ce&show_icons=true">
+<h1 align="center">Hi, I'm Ahmet Tayyip UZUN</h1>
+<h3 align="center">A Web & AI developer and a computer engineering student from Turkey</h3>
 
-# Hi, I'm Ahmet Tayyip UZUN 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atu-ce" alt="atu-ce" /> </p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atu-ce&show_icons=true&locale=en&layout=compact" alt="atu-ce" /> </p>
+<p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=atu-ce&show_icons=true" alt="atu-ce" /> </p>
+
+</br>
+<p> <img align="left" src="https://komarev.com/ghpvc/?username=atu-ce" alt="atu-ce" /> </p>
+</br>
 
 ### Languages
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
