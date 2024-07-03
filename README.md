@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Database
-![](https://img.shields.io/badge/MsSQL-07405E?style=for-the-badge&logo=sql&logoColor=white)
+![](https://img.shields.io/badge/MsSQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Frameworks
