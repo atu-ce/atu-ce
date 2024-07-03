@@ -18,6 +18,7 @@
 
 ### Database
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/MsSQL-07405E?style=for-the-badge&logo=mssql&logoColor=white)
 
 ### Frameworks
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
