@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmet Tayyip UZUN</h1>
-<h3 align="center">A Web & AI developer and a computer engineering student from Turkey</h3>
+<h3 align="center">R&D Researcher and Software Developer from Turkey</h3>
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atu-ce&show_icons=true&locale=en&layout=compact" alt="atu-ce" /> </p>
 <p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=atu-ce&show_icons=true" alt="atu-ce" /> </p>
