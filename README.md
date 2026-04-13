@@ -26,7 +26,7 @@ class AhmetTayyipUzun:
 
         self.role        = "ERP Software Development"
         self.research    = "Computer Vision, Deep Learning, Image Processing"
-        self.interests   = ["Artificial Intelligence", "Machine Learning", "Deep Learning"]
+        self.interests   = ["AI", "ML", "Deep Learning", "LLM", "AI Agents"]
 ```
 
 <br/>
