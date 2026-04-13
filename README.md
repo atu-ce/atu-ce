@@ -23,10 +23,7 @@ class AhmetTayyipUzun:
         self.company     = "Karacasu Tekstil"
         self.location    = "Turkey 🇹🇷"
         self.education   = "MSc Student @ Kayseri University"
-
         self.role        = "ERP Software Development"
-        self.research    = "ERP - Artificial Intelligence Integration"
-        self.interests   = ["Artificial Intelligence", "Machine Learning", "Deep Learning"]
 ```
 
 <br/>
@@ -45,7 +42,7 @@ class AhmetTayyipUzun:
       <br/><b>MS SQL</b>
     </td>
     <td align="center" width="140">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/1C_Company_logo.svg" width="40" height="40" alt="1C ERP"/>
+      <img src="https://cdn.simpleicons.org/1c/FFD700" width="40" height="40" alt="1C ERP"/>
       <br/><b>1C ERP</b>
     </td>
   </tr>
@@ -58,7 +55,7 @@ class AhmetTayyipUzun:
 
 <div align="center">
 
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `ERP Systems` · `ERP ↔ AI Integration`
+`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `LLM` · `AI Agents` · `ERP Systems` · `ERP ↔ AI Integration`
 
 </div>
 
