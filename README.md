@@ -98,17 +98,19 @@ class AhmetTayyipUzun:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=atu-ce&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atu-ce&theme=github_dark" alt="GitHub Stats"/>
 &nbsp;
 <img width="48%" src="https://streak-stats.demolab.com?user=atu-ce&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atu-ce&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atu-ce&theme=github_dark" alt="Top Languages by Repo"/>
+&nbsp;
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atu-ce&theme=github_dark" alt="Top Languages by Commit"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atu-ce&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff15&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atu-ce&theme=github_dark" width="95%" alt="Contribution Graph"/>
 
 </div>
 
