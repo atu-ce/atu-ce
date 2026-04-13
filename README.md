@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Ahmet%20Tayyip%20UZUN&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=R%26D%20Researcher%20%26%20Computer%20Engineer&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=ERP+Geli%C5%9Ftirici+%7C+Yapay+Zeka+Ara%C5%9Ft%C4%B1rmac%C4%B1s%C4%B1" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Ahmet%20Tayyip%20UZUN&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=R%20and%20D%20Researcher%20%7C%20Computer%20Engineer&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=atu-ce&style=flat-square&color=161b22&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenmesi" alt="Profil Görüntülenmesi"/>
+<img src="https://komarev.com/ghpvc/?username=atu-ce&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/atu-ce?tab=followers">
+  <img src="https://img.shields.io/github/followers/atu-ce?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github" alt="Followers"/>
+</a>
 
 </div>
 
