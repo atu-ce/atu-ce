@@ -108,8 +108,6 @@ class AhmetTayyipUzun:
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atu-ce&theme=github_dark" width="95%" alt="Contribution Graph"/>
-<br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atu-ce&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff15&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 
 </div>
