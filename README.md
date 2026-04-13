@@ -25,7 +25,7 @@ class AhmetTayyipUzun:
         self.education   = "MSc Student @ Kayseri University"
 
         self.role        = "ERP Software Development"
-        self.research    = "ERP - Artificial Intelligence Integration"
+        self.research    = "Computer Vision, Deep Learning, Image Processing"
         self.interests   = ["Artificial Intelligence", "Machine Learning", "Deep Learning"]
 ```
 
@@ -86,8 +86,8 @@ class AhmetTayyipUzun:
   </tr>
   <tr>
     <td align="center">📝</td>
-    <td><b>MSc Thesis</b></td>
-    <td>ERP - Artificial Intelligence Integration @ Kayseri University</td>
+    <td><b>MSc Studies</b></td>
+    <td>Computer Vision in Embedded Systems, Advanced Image Processing, Deep Learning with Python @ Kayseri University</td>
   </tr>
 </table>
 </div>
