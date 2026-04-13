@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:2E7D32,100:43A047&height=200&section=header&text=Ahmet%20Tayyip%20UZUN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=RD%20Researcher%20%7C%20Computer%20Engineer&descSize=18&descAlignY=55&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:2E7D32,100:43A047&height=200&section=header&text=Ahmet%20Tayyip%20UZUN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=R%20and%20D%20Researcher%20%7C%20Computer%20Engineer&descSize=18&descAlignY=55&descColor=ffffffcc" width="100%"/>
 
 <br/>
 
@@ -23,7 +23,10 @@ class AhmetTayyipUzun:
         self.company     = "Karacasu Tekstil"
         self.location    = "Turkey 🇹🇷"
         self.education   = "MSc Student @ Kayseri University"
+
         self.role        = "ERP Software Development"
+        self.research    = "ERP - Artificial Intelligence Integration"
+        self.interests   = ["Artificial Intelligence", "Machine Learning", "Deep Learning"]
 ```
 
 <br/>
@@ -64,8 +67,29 @@ class AhmetTayyipUzun:
 
 <div align="center">
 
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `LLM` · `AI Agents` · `ERP Systems` · `ERP ↔ AI Integration`
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-01579B?style=for-the-badge&logo=googlecolab&logoColor=white)
+![DL](https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-2E7D32?style=for-the-badge&logo=openai&logoColor=white)
+![Agents](https://img.shields.io/badge/AI%20Agents-00838F?style=for-the-badge&logo=probot&logoColor=white)
+![ERP](https://img.shields.io/badge/ERP%20Systems-E65100?style=for-the-badge&logo=sap&logoColor=white)
+![Integration](https://img.shields.io/badge/ERP%20↔%20AI%20Integration-1565C0?style=for-the-badge&logo=zapier&logoColor=white)
 
+</div>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">🎯</td>
+    <td><b>Current Focus</b></td>
+    <td>Integrating AI/ML solutions into enterprise ERP systems</td>
+  </tr>
+  <tr>
+    <td align="center">📝</td>
+    <td><b>MSc Thesis</b></td>
+    <td>ERP - Artificial Intelligence Integration @ Kayseri University</td>
+  </tr>
+</table>
 </div>
 
 <br/>
