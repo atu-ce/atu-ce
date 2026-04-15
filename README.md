@@ -36,7 +36,7 @@ class AhmetTayyipUzun:
 <div align="center">
 
 #### Languages
-<table>
+<table border="0">
   <tr>
     <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/><sub>Python</sub></td>
     <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/><br/><sub>C</sub></td>
