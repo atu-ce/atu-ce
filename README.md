@@ -104,7 +104,7 @@ class AhmetTayyipUzun:
 
 <br/><br/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=atu-ce&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=atu-ce&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
 
 <br/><br/>
 
