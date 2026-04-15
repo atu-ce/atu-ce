@@ -36,40 +36,34 @@ class AhmetTayyipUzun:
 <div align="center">
 
 #### Languages
-<table border="0">
-  <tr>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/><sub>Python</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/><br/><sub>C</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/><sub>C++</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/><sub>C#</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" alt="MS SQL"/><br/><sub>MS SQL</sub></td>
-  </tr>
-</table>
+<p>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" title="C"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" alt="MS SQL" title="MS SQL"/></a>
+</p>
 
 #### Frameworks & Tools
-<table>
-  <tr>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET"/><br/><sub>.NET</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" alt="Angular"/><br/><sub>Angular</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/><br/><sub>Django</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/><sub>Docker</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/><sub>Git</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/><sub>Linux</sub></td>
-  </tr>
-</table>
+<p>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" title=".NET / ASP.NET"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" title="Angular"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django" title="Django / Flask"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux"/></a>
+</p>
 
 #### AI / ML
-<table>
-  <tr>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br/><sub>Pandas</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br/><sub>NumPy</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/><br/><sub>Scikit-learn</sub></td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
-  </tr>
-</table>
+<p>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow / Keras"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" title="Pandas"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" title="NumPy"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" title="Scikit-learn"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" title="OpenCV"/></a>
+</p>
 
 </div>
 
